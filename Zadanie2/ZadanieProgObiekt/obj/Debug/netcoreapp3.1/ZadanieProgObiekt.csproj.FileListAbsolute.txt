@@ -1,0 +1,13 @@
+C:\Users\Damian K\source\repos\Zadanie2\ZadanieProgObiekt\bin\Debug\netcoreapp3.1\ZadanieProgObiekt.exe
+C:\Users\Damian K\source\repos\Zadanie2\ZadanieProgObiekt\bin\Debug\netcoreapp3.1\ZadanieProgObiekt.deps.json
+C:\Users\Damian K\source\repos\Zadanie2\ZadanieProgObiekt\bin\Debug\netcoreapp3.1\ZadanieProgObiekt.runtimeconfig.json
+C:\Users\Damian K\source\repos\Zadanie2\ZadanieProgObiekt\bin\Debug\netcoreapp3.1\ZadanieProgObiekt.runtimeconfig.dev.json
+C:\Users\Damian K\source\repos\Zadanie2\ZadanieProgObiekt\bin\Debug\netcoreapp3.1\ZadanieProgObiekt.dll
+C:\Users\Damian K\source\repos\Zadanie2\ZadanieProgObiekt\bin\Debug\netcoreapp3.1\ZadanieProgObiekt.pdb
+C:\Users\Damian K\source\repos\Zadanie2\ZadanieProgObiekt\obj\Debug\netcoreapp3.1\ZadanieProgObiekt.csprojAssemblyReference.cache
+C:\Users\Damian K\source\repos\Zadanie2\ZadanieProgObiekt\obj\Debug\netcoreapp3.1\ZadanieProgObiekt.AssemblyInfoInputs.cache
+C:\Users\Damian K\source\repos\Zadanie2\ZadanieProgObiekt\obj\Debug\netcoreapp3.1\ZadanieProgObiekt.AssemblyInfo.cs
+C:\Users\Damian K\source\repos\Zadanie2\ZadanieProgObiekt\obj\Debug\netcoreapp3.1\ZadanieProgObiekt.csproj.CoreCompileInputs.cache
+C:\Users\Damian K\source\repos\Zadanie2\ZadanieProgObiekt\obj\Debug\netcoreapp3.1\ZadanieProgObiekt.dll
+C:\Users\Damian K\source\repos\Zadanie2\ZadanieProgObiekt\obj\Debug\netcoreapp3.1\ZadanieProgObiekt.pdb
+C:\Users\Damian K\source\repos\Zadanie2\ZadanieProgObiekt\obj\Debug\netcoreapp3.1\ZadanieProgObiekt.genruntimeconfig.cache
